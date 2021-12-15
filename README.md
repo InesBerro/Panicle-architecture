@@ -26,7 +26,7 @@ Custom MATLAB (R2020a) scrips were developed to measure and evaluate image panic
 Panicle traits were obtained in pixels and scaled to metric units. 
 - Digital biomass (cm2) was calculated as the pixel area of the panicle expressed in cm2.
 - Compactness was calculated as the ratio between the pixel area of the panicle and the total area enclosed by the convex hull around the panicle. 
--Panicle length (cm) was calculated as the distance between the first node and the highest point of the panicle, defined based on the boundary box or smallest rectangle that involves the total of the panicle touching the extreme points.
+- Panicle length (cm) was calculated as the distance between the first node and the highest point of the panicle, defined based on the boundary box or smallest rectangle that involves the total of the panicle touching the extreme points.
 - Panicle width (cm) was calculated as the distance between the two extreme points at the sides of the panicle defended based on the boundary box. 
 
 ### Output
